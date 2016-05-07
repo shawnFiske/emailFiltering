@@ -1,0 +1,24 @@
+{
+  "name": "Email_Filter",
+  "version": "0.0.1",
+  "description": "Filter emails",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "Shawn Fiske",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shawnFiske/chefstep.git"
+  }
+}
